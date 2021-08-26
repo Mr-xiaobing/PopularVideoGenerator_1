@@ -1,8 +1,7 @@
-from main.textToAudio import textToMp3Audio
 from main.generateVideo import gifToVideo
 from main.gifResize import gifToResize
 from main.reptileGIF import getGIF
-
+from main.textToAudio import textToMp3Audio
 
 # 文本内容 请写在 book文件夹
 #  bgm在bgm文件夹
